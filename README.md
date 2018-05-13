@@ -15,4 +15,4 @@ The entire project was completed in python and makes use of the [OpenCV](https:/
 
 The program was tested on the images and videos in [test_images](test_images) and [test_videos](test_images) respectively. The results are saved in the respective _output folders.
 
-For more details on my solution and some thoughts on shortcomings and improvements, see the [project_writeup](project_writeup).
+For more details on my solution and some thoughts on shortcomings and improvements, see the [project_writeup](project_writeup.md).
